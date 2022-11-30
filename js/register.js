@@ -6,8 +6,6 @@ var mailM = document.getElementById('mailm');
 var mailV =/^[@]/
 var MotdePasse = document.getElementById('passe');
 var Confirmation = document.getElementById('confirmation');
-// var Admin = document.getElementById('admin');
-// var Client = document.getElementById('client');
 var Role = document.getElementById('role');
 var v = true ;
 // validation.addEventListener('click',valider());
